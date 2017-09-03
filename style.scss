@@ -7,7 +7,7 @@
 
 @import "reset";
 @import "variables";
-@import url(//fonts.googleapis.com/css?family=Playfair+Display);
+@import url(//fonts.googleapis.com/css?family=Playfair+Display:400,400i);
 @import url(//fonts.googleapis.com/css?family=Raleway);
 
 // Syntax highlighting @import is at the bottom of this file
@@ -257,6 +257,17 @@ nav {
 }
 
 .post {
+  
+  h1{
+    font-style: italic;
+    text-align: center;
+    font-size: 32px !important;
+    padding-bottom: 1em;
+    text-decoration: underline;
+    text-decoration-color: #034C8C
+
+  }
+
   .entry{
     text-align: justify;
   }

@@ -3,6 +3,7 @@ layout: post
 title: Getting Started with Spark
 ---
 
+![Spark]({{ site.baseurl }}/images/spark.png)
 I started learning data science back in my last year at college by taking Big Data Management course. The course just opened for the first time back then, and it brought me tons of curiousity of what can data do in real life. It’s taught by [Mr. Bayu](https://www.cs.ui.ac.id/index.php/bayu-distiawan-t.html?lang=en) and [Mr. Alfan](https://www.linkedin.com/in/alfan-farizki-wicaksono-26484885/?ppe=1), who inspired me to learn more about this field.
 
 In this course, we got a chance to do a last project using big data in a group of three. I’ll tell you about my project–it’s pretty simple, therefore it has many flaws. The idea is, I want to classify user’s interest based on their tweets. Since the Twitter API brings us all the easiness to fetch user data, it makes us easier to analyze user’s tweets. The goal here is that we can perform a data analysis using big data approach, so it maybe not the best approach to find user’s interests.

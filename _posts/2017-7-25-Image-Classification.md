@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Image Classification using Python
+title: Image Classification using Python (coming soon)
 ---
 
 ![Animals]({{ site.baseurl }}/images/animal.png)
